@@ -1,0 +1,1 @@
+<h2> Ticket Nro {{$ticket->nro_ticket}}</h2>
